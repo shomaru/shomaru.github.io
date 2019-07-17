@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 纯属杜撰
+title: 纯属空间
 subtitle: 分享技术，品味人生
-name: 纯属杜撰 
+name: 纯属空间
 email: vearn@foxmail.com
-description: 本站是纯属杜撰的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: shomaru,纯属杜撰,Spring,Spring Boot,Spring Cloud,Jvm,Docker,生活故事,架构,大数据,一线,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是纯属空间的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
+keywords: shomaru,纯属空间,Spring,Spring Boot,Spring Cloud,Jvm,Docker,生活故事,架构,大数据,一线,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico
 
