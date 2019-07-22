@@ -11,7 +11,7 @@ subtitle: 分享技术，品味人生
 name: 纯属空间
 email: vearn@foxmail.com
 description: 本站是纯属空间的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: shomaru,纯属空间,Spring,Spring Boot,Spring Cloud,Jvm,Docker,生活故事,架构,大数据,一线,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+keywords: shomaru,纯属空间,Spring,Spring Boot,Spring Cloud,Jvm,Docker,生活故事,架构,大数据,一线,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,
 encoding: "utf-8"
 favicon: favicon.ico
 
@@ -57,21 +57,6 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /zsxq.html
-    label: 星球
-    target: _self
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _self
-
-  -
-    href: /geektime.html
-    label: 极客
-    target: _blank
-
-  -
     href: /life.html
     label: 故事
     target: _self
@@ -96,31 +81,6 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring Boot
-    target: _self
-    subnav:
-
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
-
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
-
-  -
-    href: /spring-cloud.html
-    label: Spring Cloud
-    target: _self
-
-  -
-    
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-
-  -
     href: /archives.html
     label: Archives
     target: _self
@@ -135,26 +95,6 @@ navs:
 labels:
 
   -
-    href: /payment.html
-    label: 支付     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
     href: /open-source.html
     label: Code  
     target: _blank
@@ -162,11 +102,6 @@ labels:
   -
     href: /it.html
     label: IT 
-    target: _blank
-
-  -
-    href: /python.html
-    label: Python  
     target: _blank
 
 
@@ -182,11 +117,6 @@ classes:
     href: /arch.html
     name: 架构师之路
     describe: 一个架构师的自我修养
-
-  -
-    href: /java.html
-    name: Java 系列文章
-    describe: Java 之根基，Java 程序员必学
 
 
 # ---------------- #
@@ -207,7 +137,7 @@ side_bar_repo_limit: 6 # Number of repos to show
 # For about.html. Fell free to create your own!
 skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, Redis, PHP, Boostrap]
 skill_mobile_app_keywords: [vuejs, hyhird app]
 
 
