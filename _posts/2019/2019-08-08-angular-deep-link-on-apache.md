@@ -31,4 +31,5 @@ RewriteRule ^ /index.html
 
 ## 参考出处
 
-https://angular.io/guide/deployment#fallback-configuration-examples
+- [https://angular.io/guide/deployment#fallback-configuration-examples](https://angular.io/guide/deployment#fallback-configuration-examples)
+- [http://codedumpster.nithinbiliya.com/deep-linking-issue-angular-application-tomcat-server/](http://codedumpster.nithinbiliya.com/deep-linking-issue-angular-application-tomcat-server/)
